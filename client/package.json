@@ -1,0 +1,30 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.3.5",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "cohere-ai": "^4.3.1",
+    "cors": "^2.8.5",
+    "d3": "^7.6.1",
+    "framer-motion": "^6.5.1",
+    "next": "12.3.1",
+    "next-google-fonts": "^2.2.0",
+    "react": "18.2.0",
+    "react-bubble-chart": "^0.4.0",
+    "react-dom": "18.2.0",
+    "react-uuid": "^1.0.3"
+  },
+  "devDependencies": {
+    "eslint": "8.25.0",
+    "eslint-config-next": "12.3.1"
+  }
+}
